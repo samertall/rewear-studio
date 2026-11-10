@@ -1,12 +1,12 @@
 # ReWear Studio — Hackathon Submission Draft
 
-**Status:** Not submitted. This is a preparatory draft, not a claim of contest eligibility or required API compliance.
+**Status:** Devpost draft created, not finally submitted. Required API compliance remains outstanding.
 
 ## Eligibility and technical gates
 
-1. The Devpost event header says **students only**, while its unfinished rules page permits adults and organizations. Samer confirmed he is not currently enrolled in higher education. Obtain **written organizer confirmation** of non-student eligibility before proceeding.
+1. The Devpost event header says **students only**, while its unfinished rules page permits adults and organizations. Samer has confirmed current student enrollment. Formal eligibility remains subject to organizer verification.
 2. The live event description includes placeholders for the mandatory virtual try-on API name, sign-up URL, credits and technical docs. Obtain authentic API access and integrate it before submitting.
-3. Publish a publicly accessible, judge-testable build; upload a 1–3 minute demo video of the actual working integration; provide a repository URL and accurate screenshots.
+3. A public demo and repository now exist. Add accurate screenshots and a public 1–3 minute video of the actual working integration before final submission.
 4. Confirm all images are used with consent; never use photos of minors or imply accurate size/fit prediction from generated imagery.
 
 Organizer contact: hello@fabricvton.com (listed on the organizer's website).
@@ -17,7 +17,7 @@ ReWear Studio — Style More. Own Less.
 
 ## Track
 
-Fashion for Everyone. The concept emphasizes inclusive, privacy-conscious styling and extending the usefulness of existing clothing.
+Styling & Wardrobe. The concept emphasizes privacy-conscious outfit planning and extending the usefulness of existing clothing.
 
 ## Elevator pitch
 
@@ -48,8 +48,10 @@ The experience is organized around repeat wear and personal utility, not pressur
 
 - Mandatory API integration **not implemented** (official API specification not published in the event description).
 - No production try-on service, live size estimation or trained AI stylist.
-- No public judge access or YouTube/Vimeo video yet.
-- No Devpost submission yet due to unresolved eligibility and API prerequisites.
+- Public demo: https://rewear-ai-studio-samer-2026.usefulotter1.chatgpt.site
+- Public source: https://github.com/samertall/rewear-studio
+- No public YouTube/Vimeo demo video or authentic API-backed try-on demonstration yet.
+- Devpost project is saved as a draft, not finally submitted.
 
 ## Suggested 2-minute demo storyboard after API integration
 
